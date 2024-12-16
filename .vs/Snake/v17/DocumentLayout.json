@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Snake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CC74557-2039-46D8-A6AC-D58C168039CA}|Snake.vcxproj|C:\\Users\\Admin\\source\\repos\\Snake\\Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CC74557-2039-46D8-A6AC-D58C168039CA}|Snake.vcxproj|solutionrelative:Snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snake.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Snake\\Snake.cpp",
+              "RelativeDocumentMoniker": "Snake.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Snake\\Snake.cpp",
+              "RelativeToolTip": "Snake.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAwwNQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-15T16:56:15.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
